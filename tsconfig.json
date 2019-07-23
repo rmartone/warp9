@@ -2,9 +2,8 @@
   "compilerOptions": {
     "strict": true,
     "target": "es6",
-    "module": "commonjs",
+    "module": "es6",
     "forceConsistentCasingInFileNames": true,
-    "importHelpers": true,
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "removeComments": true,
